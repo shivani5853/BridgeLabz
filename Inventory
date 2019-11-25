@@ -1,9 +1,0 @@
-[{"name":"rice1","weight":20,"price":20.0},{"name":"rice2","weight":20,"price":320.0}]
-
-
-
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/shivani5853/Oops.git
-git push -u origin master
